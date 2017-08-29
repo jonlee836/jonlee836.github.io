@@ -33,7 +33,9 @@ body {
 
 .portfolio-image-dims {
     height: 350px;
+    width: 450px;
     max-height: 350px;
+    max-width: 450px;
     margin: 0 auto;
 }
 
